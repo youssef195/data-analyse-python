@@ -50,6 +50,7 @@ finalement, cela donne ce resultat.
 
 ![image](https://user-images.githubusercontent.com/99668071/159014359-541df663-dabb-4523-9b42-0caa1e5494e3.png)
 
+finalement, pour industrialiser ma solution, grace à un code python  (que je peux pas partager due à la présence de parametre du serveur sncf) j'ai importer le excel original pour executer mon dataset à partir d'une requette SQL  pour les porchain dataset plus important vue que les performance sont meilleur.
 
 le probléme aux 1re abord à l'air simple mais plus je l'ai explorer plus je me suis confronter à des probléme que j'ai resolue au fur et à mesure.
 
