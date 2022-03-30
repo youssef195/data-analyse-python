@@ -52,6 +52,6 @@ finalement, cela donne ce résultat.
 
 finalement, pour industrialiser ma solution, grace à un code python  (que je peux pas partager due à la présence de paramètres du serveur Sncf) j'ai importé de l'excel original pour exécuter mon dataset à partir d'une requête SQL  pour les prochains dataset plus important vue que les performances sont meilleures.
 
-le problème aux 1res abords a l'air simple mais plus je l'ai exploré plus je me suis confronté à des problèmes que j'ai résolus au fur et à mesure.
+le problème aux 1er abords a l'air simple mais plus je l'ai exploré plus je me suis confronté à des problèmes que j'ai résolus au fur et à mesure.
 
 
